@@ -5,11 +5,11 @@ variable aliasing and object identifiers, types, and mutability. The project
 involved a series of quiz-like questions the answers to which I provided in
 single-line `.txt` files.
 
-## Tests :heavy_check_mark:
+## Tests
 
 * [tests](./tests): Folder of test files. Provided by ALX.
 
-## Tasks :page_with_curl:
+## Tasks
 
 * **0. Who am I?**
   * [0-answer.txt](./0-answer.txt): What function would you use to print the type of an object?
