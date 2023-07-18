@@ -1,7 +1,6 @@
 # SQL - Introduction
 
-I began practicing introductory data definition and data
-manipulation language, making subqueries, and using functions.
+I began practicing introductory data definition and data manipulation language, making subqueries, and using functions.
 
 ## Usage 
 
